@@ -31,7 +31,7 @@ Front-end Web Development, Mobile App Design, Design Thinking, Information Archi
 
 ## Skills
 **des.**
-Adobe Illustrator ∙ Info Architechture ∙ Sketch ∙ UX Research ∙ Wireframing ∙ XD
+Adobe Illustrator ∙ Info Architechture ∙ Sketch ∙ UX Research ∙ Wireframing ∙ XD ∙
 Figma ∙ inVision ∙ Usability Testing ∙ Photoshop  
 **dev.**
 HTML/CSS/JS ∙ Java ∙ Python ∙ R ∙ SQL
